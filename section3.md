@@ -1,2 +1,2 @@
-# section3
+# Chapter 3
 
